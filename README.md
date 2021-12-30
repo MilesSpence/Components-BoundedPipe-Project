@@ -1,6 +1,6 @@
 # Components-BoundedPipe-Project
 
-Overview
+### Overview
 
 Create a bounded Pipe component (also called a Deque) consistent with the following class diagram.
 
@@ -66,7 +66,7 @@ The Web-CAT portion of Project 2 is worth 40 points:
         Code should use 4 spaces for indentation.
         Code should be formatted consistently.
 
-Updates
+### Updates
 
 [Sept 7] Add methods "first" and "last" to your interface and implement them in your concrete classes. The method "first" should return (but not remove) the first element of the pipe, or null if the pipe is empty. The method "last" should return (but not remove) the last element of the pipe, or null if the pipe is empty. These methods should be simple accessors (one-line implementations) that are used primarily to simplify testing.
 
