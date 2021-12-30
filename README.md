@@ -4,8 +4,6 @@ Overview
 
 Create a bounded Pipe component (also called a Deque) consistent with the following class diagram.
 
-Pipe Component Diagram
-
 Please ensure:
 
     All methods in CircArrayPipe should run in constant time (no loops)
@@ -67,3 +65,9 @@ The Web-CAT portion of Project 2 is worth 40 points:
         (Bonus of +1) If length in CircArrayPipe implementation is calculated dynamically using modulo (i.e. length field is not used).
         Code should use 4 spaces for indentation.
         Code should be formatted consistently.
+
+Updates
+
+[Sept 7] Add methods "first" and "last" to your interface and implement them in your concrete classes. The method "first" should return (but not remove) the first element of the pipe, or null if the pipe is empty. The method "last" should return (but not remove) the last element of the pipe, or null if the pipe is empty. These methods should be simple accessors (one-line implementations) that are used primarily to simplify testing.
+
+[Sept 14] Ensure that you use the modulo operator (%) when implementing CircArrayPipe methods: prepend, append, removeFirst, and removeLast. The most you will loose for NOT doing this is 2 points, so making sure you have working code is the most important part of this project.
