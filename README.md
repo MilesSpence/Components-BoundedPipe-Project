@@ -1,5 +1,7 @@
 # Components-BoundedPipe-Project
 
+### The following are the instructions for a project for my graduate-level software engineering class:
+
 ### Overview
 
 Create a bounded Pipe component (also called a Deque) consistent with the Pipe Component Diagram.pdf
