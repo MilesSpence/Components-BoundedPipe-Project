@@ -1,6 +1,6 @@
 # Components-BoundedPipe-Project
 
-### The following are the instructions for a project for my graduate-level software engineering class:
+### The following are the instructions for the project:
 
 ### Overview
 
