@@ -2,7 +2,7 @@
 
 ### Overview
 
-Create a bounded Pipe component (also called a Deque) consistent with the following class diagram.
+Create a bounded Pipe component (also called a Deque) consistent with the Pipe Component Diagram.pdf
 
 Please ensure:
 
