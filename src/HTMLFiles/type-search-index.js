@@ -1,1 +1,0 @@
-typeSearchIndex = [{"p":"boundedpipe","l":"AbstractPipe"},{"l":"All Classes","url":"allclasses-index.html"},{"p":"boundedpipe","l":"CircArrayPipe"},{"p":"boundedpipe","l":"CircArrayPipeTest"},{"p":"boundedpipe","l":"LinkedPipe"},{"p":"boundedpipe","l":"LinkedPipeTest"},{"p":"boundedpipe","l":"ListPipe"},{"p":"boundedpipe","l":"ListPipeTest"},{"p":"boundedpipe","l":"Pipe"}]
